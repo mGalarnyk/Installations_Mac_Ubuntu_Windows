@@ -3,9 +3,10 @@ Common and Uncommon Installations for Various Stuff
 
 ## IPython Notebook
 <ul>
-  <li>[Anaconda](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/tree/master/Anaconda) </li>
+  <li> <a href="https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/tree/master/Anaconda">Anaconda</a> </li>
     <ul>
-      <li> [Mac](https://github.com/mGalarnyk/Anaconda_Install_Mac_Ubuntu_Windows/blob/master/Anaconda%20Install%20Instructions%20-%20Mac%20OS%20X.ipynb) </li>
+      <li> <a href="https://github.com/mGalarnyk/Anaconda_Install_Mac_Ubuntu_Windows/blob/master/Anaconda%20Install%20Instructions%20-%20Mac%20OS%20X.ipynb">MAC</a> </li>
+      <li> <a href="https://github.com/mGalarnyk/Anaconda_Install_Mac_Ubuntu_Windows/blob/master/Anaconda%20Install%20Instructions%20-%20Mac%20OS%20X.ipynb">MAC</a> </li>
       <li>[Ubuntu](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Anaconda/Anaconda_Install_Instructions_Ubuntu.ipynb)</li>
       <li>[Windows](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Anaconda/Anaconda_Install_Instructions_Windows.ipynb)</li>
     </ul>
