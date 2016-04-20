@@ -18,4 +18,4 @@ Common and Uncommon Installations for Various Stuff
 <li>[Install Anaconda on Mac (Python)](https://www.youtube.com/watch?v=B6d5LrA8bNE)</li>
 <li>[Install Anaconda on Ubuntu (Python)](https://www.youtube.com/watch?v=jo4RMiM-ihs)</li>
 <li>[Install Anaconda on Windows (Python)](https://www.youtube.com/watch?v=KH2yIk03jFc)</li> <br>
-<li>[Install Spark on Mac (Python)](https://www.youtube.com/edit?video_id=I5JtvpyM14U)</li>
+<li>[Install Spark on Mac (Python)](https://www.youtube.com/watch?v=I5JtvpyM14U)</li>
