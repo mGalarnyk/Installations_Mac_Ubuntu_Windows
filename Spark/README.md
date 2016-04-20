@@ -1,6 +1,3 @@
-Install Spark
-
-
 ## IPython Notebook
 
   <li>[Install Spark on Mac (Python)](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Spark/Install_Apache_Spark_PySpark_Mac.ipynb)</li>
