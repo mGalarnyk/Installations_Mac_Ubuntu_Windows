@@ -12,7 +12,7 @@ Common and Uncommon Installations for Various Stuff
   <li><a href="https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/tree/master/Spark">Spark (in progress)</a></li>
     <ul>
       <li><a href="https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Spark/Install_Apache_Spark_PySpark_Mac.ipynb">Mac</a></li>
-    <\ul>
+    </ul>
 </ul> 
 ## Youtube Tutorials
 <li>[Install Anaconda on Mac (Python)](https://www.youtube.com/watch?v=B6d5LrA8bNE)</li>
