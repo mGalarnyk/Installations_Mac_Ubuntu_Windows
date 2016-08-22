@@ -17,7 +17,7 @@ Common and Uncommon Installations Python, Big Data, and AWS
 ## Youtube Tutorials
 <li>[Install Anaconda on Mac (Python)](https://www.youtube.com/watch?v=B6d5LrA8bNE "Install Anaconda on Mac (Python)")</li>
 <li>[Install Anaconda on Ubuntu (Python)](https://www.youtube.com/watch?v=jo4RMiM-ihs "Install Anaconda on Ubuntu (Python)")</li>
-<li>[Install Anaconda on Windows (Python)](https://www.youtube.com/watch?v=KH2yIk03jFc "Install Anaconda on Windows (Python)")</li> <br>
+<li>[Install Anaconda on Windows (Python)](https://www.youtube.com/watch?v=KH2yIk03jFc "Install Anaconda on Windows (Python)")</li>
 <li>[Install Spark on Mac (Python)](https://www.youtube.com/watch?v=I5JtvpyM14U "Install Spark on Mac (Python)")</li>
 
 <li>[Getting Started with AWS EC2: Part 1 Making EC2 Instance](https://www.youtube.com/watch?v=3KHI5mBV8MY "Getting Started with AWS EC2: Part 1 Making EC2 Instance")</li>
