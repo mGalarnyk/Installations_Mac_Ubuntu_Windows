@@ -25,4 +25,4 @@ Common and Uncommon Installations Python, Big Data, and AWS
 <li>[Getting Started with AWS EC2: Part 1 Making EC2 Instance](https://www.youtube.com/watch?v=3KHI5mBV8MY "Getting Started with AWS EC2: Part 1 Making EC2 Instance")</li>
 <li>[Getting Started with AWS EC2: Part 2 ssh into EC2 Instance](https://www.youtube.com/watch?v=l53QjtPvF_A "Getting Started with AWS EC2: Part 2 ssh into EC2 Instance")</li>
 <li>[Getting Started with AWS EC2: Part 3 Installing Anaconda on EC2](https://www.youtube.com/watch?v=HJ_ayBsZytg "Getting Started with AWS EC2: Part 3 Installing Anaconda on EC2")</li>
-
+<li>[Getting Started with AWS EC2: Part 4 Starting a Jupyter (IPython) Notebook Server on AWS ](https://www.youtube.com/watch?v=YBdYTgwb2OM "Getting Started with AWS EC2: Part 4 Starting a Jupyter (IPython) Notebook Server on AWS")</li>
