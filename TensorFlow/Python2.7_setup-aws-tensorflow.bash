@@ -4,8 +4,8 @@
 set -e
 ############################################
 # install into /mnt/bin
-sudo mkdir -p /mnt/bin
-sudo chown ubuntu:ubuntu /mnt/bin
+# sudo mkdir -p /mnt/bin
+#sudo chown ubuntu:ubuntu /mnt/bin
 
 # install the required packages
 sudo apt-get update && sudo apt-get -y upgrade
@@ -37,9 +37,9 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CUDA_ROOT/lib64
 
 # install anaconda
 wget https://repo.continuum.io/archive/Anaconda2-4.1.1-Linux-x86_64.sh
-bash Anaconda2-4.1.1-Linux-x86_64.sh -b -p /mnt/bin/anaconda2
+bash Anaconda2-4.1.1-Linux-x86_64.sh -b -p /home/ubuntu/anaconda2
 rm Anaconda2-4.1.1-Linux-x86_64.sh
-echo 'export PATH="/mnt/bin/anaconda2/bin:$PATH"' >> ~/.bashrc
+echo 'export PATH="/home/ubuntu/anaconda2/bin:$PATH"' >> ~/.bashrc
 
 # Ubuntu/Linux 64-bit, GPU enabled, Python 2.7
 # Requires CUDA toolkit 7.5 and CuDNN v5. For other versions, see "Install from sources" below.
@@ -48,7 +48,7 @@ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorf
 # install tensorflow
 # export TF_BINARY_URL='https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.9.0rc0-cp35-cp35m-linux_x86_64.whl'
 
-/mnt/bin/anaconda2/bin/pip install $TF_BINARY_URL
+/home/ubuntu/anaconda2/bin/pip install $TF_BINARY_URL
 
 # install monitoring programs
 sudo wget https://git.io/gpustat.py -O /usr/local/bin/gpustat
@@ -57,6 +57,7 @@ sudo nvidia-smi daemon
 sudo apt-get -y install htop
 
 # reload .bashrc
+source .bashrc
 exec bash
 ############################################
 # run the test
