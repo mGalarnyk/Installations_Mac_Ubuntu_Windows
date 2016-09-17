@@ -2,10 +2,6 @@
 
 # stop on error
 set -e
-############################################
-# install into /mnt/bin
-sudo mkdir -p /mnt/bin
-sudo chown ubuntu:ubuntu /mnt/bin
 
 # install the required packages
 sudo apt-get update && sudo apt-get -y upgrade
@@ -19,6 +15,7 @@ sudo apt-get update
 sudo apt-get install -y cuda
 
 # get cudnn
+# Register and download the cuDNN v4 from https://developer.nvidia.com/rdp/cudnn-download
 CUDNN_FILE=cudnn-7.0-linux-x64-v4.0-prod.tgz
 wget http://developer.download.nvidia.com/compute/redist/cudnn/v4/${CUDNN_FILE}
 tar xvzf ${CUDNN_FILE}
@@ -36,15 +33,17 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CUDA_ROOT/lib64
 ' >> ~/.bashrc
 
 # install anaconda
-wget http://repo.continuum.io/archive/Anaconda3-4.0.0-Linux-x86_64.sh
-bash Anaconda3-4.0.0-Linux-x86_64.sh -b -p /mnt/bin/anaconda3
-rm Anaconda3-4.0.0-Linux-x86_64.sh
-echo 'export PATH="/mnt/bin/anaconda3/bin:$PATH"' >> ~/.bashrc
+# https://www.continuum.io/downloads
+wget https://repo.continuum.io/archive/Anaconda2-4.1.1-Linux-x86_64.sh
+bash Anaconda2-4.1.1-Linux-x86_64.sh -b -p /home/ubuntu/anaconda2
+rm Anaconda2-4.1.1-Linux-x86_64.sh
+echo 'export PATH="/home/ubuntu/anaconda2/bin:$PATH"' >> ~/.bashrc
 
-# install tensorflow
-export TF_BINARY_URL='https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.9.0rc0-cp35-cp35m-linux_x86_64.whl'
+# Ubuntu/Linux 64-bit, GPU enabled, Python 2.7 tensorflow
+# https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.10.0-cp27-none-linux_x86_64.whl
 
-/mnt/bin/anaconda3/bin/pip install $TF_BINARY_URL
+/home/ubuntu/anaconda2/bin/pip install $TF_BINARY_URL
 
 # install monitoring programs
 sudo wget https://git.io/gpustat.py -O /usr/local/bin/gpustat
@@ -52,12 +51,12 @@ sudo chmod +x /usr/local/bin/gpustat
 sudo nvidia-smi daemon
 sudo apt-get -y install htop
 
-# reload .bashrc
-exec bash
-############################################
-# run the test
-# byobu				# start byobu + press Ctrl + F2 
-# htop				# run in window 1, press Shift + F2
-# watch --color -n1.0 gpustat -cp	# run in window 2, press Shift + <left>
-# wget https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/models/image/mnist/convolutional.py
-# python convolutional.py		# run in window 3
+# update terminal to latest update of .bashrc file
+source .bashrc
+
+# Test Installation
+wget https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/models/image/mnist/convolutional.py
+python convolutional.py
+
+# If you have any questions, please feel free to email me
+# email: mgalarny@gmail.com
