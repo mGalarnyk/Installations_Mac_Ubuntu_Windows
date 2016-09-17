@@ -55,8 +55,8 @@ sudo apt-get -y install htop
 source .bashrc
 
 # Test Installation
-wget https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/models/image/mnist/convolutional.py
-python convolutional.py
+#wget https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/models/image/mnist/convolutional.py
+#python convolutional.py
 
 # If you have any questions, please feel free to email me
 # email: mgalarny@gmail.com
