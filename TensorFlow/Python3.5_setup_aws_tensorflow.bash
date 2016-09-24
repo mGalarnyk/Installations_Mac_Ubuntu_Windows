@@ -53,10 +53,7 @@ sudo apt-get -y install htop
 
 # update terminal to latest update of .bashrc file
 source .bashrc
-
-# Test Installation
-#wget https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/models/image/mnist/convolutional.py
-#python convolutional.py
+exec bash
 
 # If you have any questions, please feel free to email me
 # email: mgalarny@gmail.com
