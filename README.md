@@ -1,5 +1,5 @@
 # Installations_Mac_Ubuntu_Windows
-Common and Uncommon Installations Python, Big Data, and AWS
+Common and Uncommon Installations Python, Big Data, TensorFlow and AWS
 
 ## IPython Notebook
 <ul>
@@ -26,3 +26,4 @@ Common and Uncommon Installations Python, Big Data, and AWS
 <li>[Getting Started with AWS EC2: Part 2 ssh into EC2 Instance](https://www.youtube.com/watch?v=l53QjtPvF_A "Getting Started with AWS EC2: Part 2 ssh into EC2 Instance")</li>
 <li>[Getting Started with AWS EC2: Part 3 Installing Anaconda on EC2](https://www.youtube.com/watch?v=HJ_ayBsZytg "Getting Started with AWS EC2: Part 3 Installing Anaconda on EC2")</li>
 <li>[Getting Started with AWS EC2: Part 4 Starting a Jupyter (IPython) Notebook Server on AWS ](https://www.youtube.com/watch?v=YBdYTgwb2OM "Getting Started with AWS EC2: Part 4 Starting a Jupyter (IPython) Notebook Server on AWS")</li>
+<li>[Installing TensorFlow on EC2 GPU](https://www.youtube.com/watch?v=IvPTA-joTA8 "Installing TensorFlow on EC2 GPU")</li>
