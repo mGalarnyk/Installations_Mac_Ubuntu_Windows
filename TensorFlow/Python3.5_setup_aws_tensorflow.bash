@@ -7,18 +7,18 @@ set -e
 sudo apt-get update && sudo apt-get -y upgrade
 sudo apt-get -y install linux-headers-$(uname -r) linux-image-extra-`uname -r`
 
-# install cuda
-wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_7.5-18_amd64.deb
-sudo dpkg -i cuda-repo-ubuntu1404_7.5-18_amd64.deb
-rm cuda-repo-ubuntu1404_7.5-18_amd64.deb
+# install cuda 7.5
+wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-7-5_7.5-18_amd64.deb
+sudo dpkg -i cuda-7-5_7.5-18_amd64.deb
+rm cuda-7-5_7.5-18_amd64.deb
 sudo apt-get update
 sudo apt-get install -y cuda
 
 # get cudnn
-# Register and download the cuDNN v4 from https://developer.nvidia.com/rdp/cudnn-download
-CUDNN_FILE=cudnn-7.0-linux-x64-v4.0-prod.tgz
-wget http://developer.download.nvidia.com/compute/redist/cudnn/v4/${CUDNN_FILE}
-tar xvzf ${CUDNN_FILE}
+# Register and download the cuDNN v5 from https://developer.nvidia.com/rdp/cudnn-download
+CUDNN_FILE=cudnn-7.5-linux-x64-v5.0-ga.tar
+wget https://developer.nvidia.com/rdp/assets/${CUDNN_FILE}
+tar xvf ${CUDNN_FILE}
 rm ${CUDNN_FILE}
 sudo cp cuda/include/cudnn.h /usr/local/cuda/include # move library files to /usr/local/cuda
 sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
