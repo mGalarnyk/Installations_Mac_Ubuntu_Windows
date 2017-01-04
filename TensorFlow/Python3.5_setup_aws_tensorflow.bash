@@ -7,17 +7,10 @@ set -e
 sudo apt-get update && sudo apt-get -y upgrade
 sudo apt-get -y install linux-headers-$(uname -r) linux-image-extra-`uname -r`
 
-<<<<<<< HEAD
-# install cuda 7.5 toolkit 14.04
-wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-toolkit-7-5_7.5-18_amd64.deb
-sudo dpkg -i cuda-toolkit-7-5_7.5-18_amd64.deb
-rm cuda-toolkit-7-5_7.5-18_amd64.deb
-=======
 # install cuda
 wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_7.5-18_amd64.deb
 sudo dpkg -i cuda-repo-ubuntu1404_7.5-18_amd64.deb
 rm cuda-repo-ubuntu1404_7.5-18_amd64.deb
->>>>>>> parent of fa9e4ac... Fixed cuDNN and CUDA versions for python 3.5 aws tensorflow installation
 sudo apt-get update
 sudo apt-get install -y cuda
 
