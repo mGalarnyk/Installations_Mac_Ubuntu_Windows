@@ -4,7 +4,7 @@
 <img src="https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Anaconda/images/installs.png" alt="Go to the Youtube Channel">
 </a>
 <br />
-Common and Uncommon Installations/Configurations for Python, R, Big Data, TensorFlow and AWS
+Common and Uncommon Installations/Configurations for Python, R, Big Data, TensorFlow and AWS. Also please subscribe to my <a href="https://www.youtube.com/c/MichaelGalarnyk?sub_confirmation=1"> youtube channel!</a>
 
 ## Anaconda (Python)
 Operating System | Blog Post | Youtube Video
