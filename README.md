@@ -26,6 +26,7 @@ AWS EC2: Part 4 Starting a Jupyter/IPython Notebook Server on AWS | [Blog](https
 ## RStudio
 Operating System | Blog Post | Youtube Video
 --- | --- | ---
+Mac | [Install R and RStudio on Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4) | [Youtube Video](https://www.youtube.com/watch?v=1PsPfMaLWSk)
 Ubuntu (12.04/14.04/16.04) | [Install R and RStudio on Ubuntu 12.04/14.04/16.04](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-ubuntu-12-04-14-04-16-04-b6b3107f7779#.g13pp3a6l) | [Youtube Video](https://www.youtube.com/watch?v=GsuA5ugYqyw)
 Windows (7, 8, and 10) | [Install R and RStudio on Windows 7, 8, and 10](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027#.n4usbyrof) | [Youtube Video](https://www.youtube.com/watch?v=GAGUDL-4aVw)
 
