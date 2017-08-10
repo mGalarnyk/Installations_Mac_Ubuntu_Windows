@@ -22,6 +22,7 @@ AWS EC2: Part 1 Making EC2 Instance | [Blog](https://medium.com/@GalarnykMichael
 AWS EC2: Part 2 SSH into EC2 Instance | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-2-ssh-into-ec2-instance-c7879d47b6b2#.bjs0rdz3j) | [Youtube Video](https://www.youtube.com/watch?v=l53QjtPvF_A&)
 AWS EC2: Part 3 Installing Anaconda on EC2 | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-3-installing-anaconda-on-ec2-linux-ubuntu-dbef0835818a#.8lmlie7c9) | [Youtube Video](https://www.youtube.com/watch?v=HJ_ayBsZytg)
 AWS EC2: Part 4 Starting a Jupyter/IPython Notebook Server on AWS | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-4-starting-a-jupyter-ipython-notebook-server-on-aws-549d87a55ba9#.ylckaikgc) | [Youtube Video](https://www.youtube.com/watch?v=YBdYTgwb2OM)
+Setting up and using Jupyter Notebooks on AWS | [Blog](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5) | [Youtube Video](https://youtu.be/q1vVedHbkAY)
 
 ## RStudio
 Operating System | Blog Post | Youtube Video
