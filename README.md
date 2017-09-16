@@ -1,9 +1,5 @@
-# Installations_Mac_Ubuntu_Windows
+<h1 align="center"> Installations for Mac, Windows, and Ubuntu</h1>
 
-<a href="https://www.youtube.com/c/MichaelGalarnyk?sub_confirmation=1">
-<img src="https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/Anaconda/images/installs.png" alt="Go to the Youtube Channel">
-</a>
-<br/>
 Common and Uncommon Installations/Configurations for Python, R, Big Data, TensorFlow and AWS. Also please subscribe to my <a href="https://www.youtube.com/c/MichaelGalarnyk?sub_confirmation=1"> youtube channel!</a>
 
 ## Anaconda (Python)
