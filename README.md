@@ -20,6 +20,11 @@ AWS EC2: Part 3 Installing Anaconda on EC2 | [Blog](https://medium.com/@Galarnyk
 AWS EC2: Part 4 Starting a Jupyter/IPython Notebook Server on AWS | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-4-starting-a-jupyter-ipython-notebook-server-on-aws-549d87a55ba9#.ylckaikgc) | [Youtube Video](https://www.youtube.com/watch?v=YBdYTgwb2OM)
 Setting up and using Jupyter Notebooks on AWS | [Blog](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5) | [Youtube Video](https://youtu.be/q1vVedHbkAY)
 
+## Git
+Operating System | Blog Post | Youtube Video
+--- | --- | ---
+Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
+
 ## RStudio
 Operating System | Blog Post | Youtube Video
 --- | --- | ---
