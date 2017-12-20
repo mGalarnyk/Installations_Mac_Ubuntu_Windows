@@ -19,7 +19,7 @@ AWS EC2: Part 2 SSH into EC2 Instance (Linux) | [Blog](https://medium.com/@Galar
 AWS EC2: Part 3 Install Anaconda on EC2 (Linux) | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-3-installing-anaconda-on-ec2-linux-ubuntu-dbef0835818a#.8lmlie7c9) | [Youtube Video](https://www.youtube.com/watch?v=HJ_ayBsZytg)
 AWS EC2: Part 4 Start a Jupyter/IPython Notebook Server on AWS (Linux) | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-4-starting-a-jupyter-ipython-notebook-server-on-aws-549d87a55ba9#.ylckaikgc) | [Youtube Video](https://www.youtube.com/watch?v=YBdYTgwb2OM)
 Set up and use Jupyter Notebooks on AWS | [Blog](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5) | [Youtube Video](https://youtu.be/q1vVedHbkAY)
-AWS EC2: Launch, Connect, and Set Up a Data Science Environment on Windows Server | [Blog](https://hackernoon.com/aws-ec2-for-beginners-56df2e820d7f) | [Datacamp Article](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial)
+AWS EC2: Launch, Connect, and Setup a Data Science Environment on Windows Server | [Blog](https://hackernoon.com/aws-ec2-for-beginners-56df2e820d7f) | [Datacamp Article](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial)
 
 ## Git
 Operating System | Blog Post | Youtube Video
