@@ -47,7 +47,7 @@ AWS GPU (Ubuntu) | In Progress | [Youtube Video](https://www.youtube.com/watch?v
 
 ## Contributors
 FirstName | LastName
---- | --- | ---
+--- | ---
 Michael  |  Galarnyk
 Submit  |  Pull Request
 
