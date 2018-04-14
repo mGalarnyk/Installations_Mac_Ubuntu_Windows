@@ -24,7 +24,9 @@ AWS EC2: Launch, Connect, and Setup a Data Science Environment on Windows Server
 ## Git
 Operating System | Blog Post | Youtube Video
 --- | --- | ---
+Mac | [Install Git on Mac](https://medium.com/@GalarnykMichael/install-git-on-mac-a884f0c9d32c "Install Git on Mac") | None
 Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
+
 
 ## RStudio
 Operating System | Blog Post | Youtube Video
