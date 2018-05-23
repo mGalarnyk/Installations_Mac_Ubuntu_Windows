@@ -27,6 +27,10 @@ Operating System | Blog Post | Youtube Video
 Mac | [Install Git on Mac](https://medium.com/@GalarnykMichael/install-git-on-mac-a884f0c9d32c "Install Git on Mac") | None
 Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
 
+## Homebrew
+Operating System | Blog Post | Datacamp Tutorial
+--- | --- | ---
+Mac | Coming 5/31/2018 on Medium | [How to Install and Use Homebrew](https://www.datacamp.com/community/tutorials/homebrew-install-use)
 
 ## RStudio
 Operating System | Blog Post | Youtube Video
