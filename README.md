@@ -30,7 +30,7 @@ Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows
 ## Homebrew
 Operating System | Blog Post | Datacamp Tutorial
 --- | --- | ---
-Mac | Coming 5/31/2018 on Medium | [How to Install and Use Homebrew](https://www.datacamp.com/community/tutorials/homebrew-install-use)
+Mac | [How to Install and Use Homebrew](https://hackernoon.com/how-to-install-and-use-homebrew-80eeb55f73e9) | [How to Install and Use Homebrew](https://www.datacamp.com/community/tutorials/homebrew-install-use)
 
 ## RStudio
 Operating System | Blog Post | Youtube Video
