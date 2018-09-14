@@ -29,6 +29,7 @@ Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows
 
 ## GPG (GnuPG)
 Operating System | Blog Post
+--- | ---
 All | [Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
 
 ## Homebrew
