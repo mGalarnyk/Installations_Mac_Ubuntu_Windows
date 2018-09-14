@@ -1,6 +1,6 @@
 <h1 align="center"> Installations for Mac, Windows, and Ubuntu</h1>
 
-Common and Uncommon Installations/Configurations for Python, R, Big Data, TensorFlow and AWS. Also please subscribe to my <a href="https://www.youtube.com/c/MichaelGalarnyk?sub_confirmation=1"> youtube channel!</a>
+Common and Uncommon Installations/Configurations for Python, R, Big Data, TensorFlow, AWS, GPG. Also please subscribe to my <a href="https://www.youtube.com/c/MichaelGalarnyk?sub_confirmation=1"> youtube channel!</a>
 
 ## Anaconda (Python)
 Operating System | Blog Post | Youtube Video
@@ -26,6 +26,10 @@ Operating System | Blog Post | Youtube Video
 --- | --- | ---
 Mac | [Install Git on Mac](https://medium.com/@GalarnykMichael/install-git-on-mac-a884f0c9d32c "Install Git on Mac") | None
 Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
+
+## GPG (GnuPG)
+Operating System | Blog Post
+All | [Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
 
 ## Homebrew
 Operating System | Blog Post | Datacamp Tutorial
