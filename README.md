@@ -25,17 +25,17 @@ AWS EC2: Launch, Connect, and Setup a Data Science Environment on Windows Server
 Operating System | Blog Post | Youtube Video
 --- | --- | ---
 Mac | [Install Git on Mac](https://medium.com/@GalarnykMichael/install-git-on-mac-a884f0c9d32c "Install Git on Mac") | None
-Windows | [Install Git on Windows](https://hackernoon.com/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
+Windows | [Install Git on Windows](https://medium.com/@GalarnykMichael/install-git-on-windows-9acf2a1944f0 "Install Git on Windows") | [Youtube Video](https://www.youtube.com/watch?v=n3Mh9SOSEUA "Youtube Video")
 
 ## GPG (GnuPG)
 Operating System | Blog Post
 --- | ---
-All | [Public-key (asymmetric) Cryptography using GPG](https://hackernoon.com/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
+All | [Public-key (asymmetric) Cryptography using GPG](https://medium.com/@GalarnykMichael/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca)
 
 ## Homebrew
 Operating System | Blog Post | Datacamp Tutorial
 --- | --- | ---
-Mac | [How to Install and Use Homebrew](https://hackernoon.com/how-to-install-and-use-homebrew-80eeb55f73e9) | [How to Install and Use Homebrew](https://www.datacamp.com/community/tutorials/homebrew-install-use)
+Mac | [How to Install and Use Homebrew](https://medium.com/@GalarnykMichael/how-to-install-and-use-homebrew-80eeb55f73e9) | [How to Install and Use Homebrew](https://www.datacamp.com/community/tutorials/homebrew-install-use)
 
 ## RStudio
 Operating System | Blog Post | Youtube Video
