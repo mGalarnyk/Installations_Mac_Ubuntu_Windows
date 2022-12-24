@@ -20,6 +20,7 @@ AWS EC2: Part 3 Install Anaconda on EC2 (Linux) | [Blog](https://medium.com/@Gal
 AWS EC2: Part 4 Start a Jupyter/IPython Notebook Server on AWS (Linux) | [Blog](https://medium.com/@GalarnykMichael/aws-ec2-part-4-starting-a-jupyter-ipython-notebook-server-on-aws-549d87a55ba9#.ylckaikgc) | [Youtube Video](https://www.youtube.com/watch?v=YBdYTgwb2OM)
 Set up and use Jupyter Notebooks on AWS | [Blog](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5) | [Youtube Video](https://youtu.be/q1vVedHbkAY)
 AWS EC2: Launch, Connect, and Setup a Data Science Environment on Windows Server | [Blog](https://www.datacamp.com/community/tutorials/aws-ec2-beginner-tutorial) | [Video Based on Article](https://www.youtube.com/watch?v=mf5u2chPBjY)
+Setup and use JupyterHub (TLJH) on AWS EC2 | Blog to be posted Jan 2023 | [Video Based on Article](https://youtu.be/h4E4ZvUhYZE)
 
 ## Git
 Operating System | Blog Post | Youtube Video
